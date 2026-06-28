@@ -1,10 +1,8 @@
-# sync_fifo_verification
-## My first UVM project
 # Parameterized Synchronous FIFO UVM Verification
 
 ## Overview
 
-This project verifies `sync_fifo_any_depth`, a synchronous FIFO with parameterized `DATA_WIDTH` and arbitrary positive `DEPTH`.
+As my first UVM project, this project verifies `sync_fifo_any_depth`, a synchronous FIFO with parameterized `DATA_WIDTH` and arbitrary positive `DEPTH`.
 
 The verification environment includes:
 
